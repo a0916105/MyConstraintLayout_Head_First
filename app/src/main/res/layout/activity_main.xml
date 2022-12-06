@@ -49,7 +49,7 @@
         android:layout_marginTop="24dp"
         app:constraint_referenced_ids="button4,button3,button6,button5,button,button2"
         app:flow_horizontalStyle="packed"
-        app:flow_wrapMode="chain"
+        app:flow_wrapMode="aligned"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
